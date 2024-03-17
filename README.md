@@ -6,7 +6,7 @@
   - [Practicing Python](https://github.com/mrinalkokate/PythonExercises)
 
 - <b>Machine Learning Models Practice</b>
-  - [Trees](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Trees]()
   - [Random Forests]()
   - [Support Vector Machine Algorith]()
 
