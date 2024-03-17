@@ -1,12 +1,14 @@
 <h1>Hi, I'm Mrinal Vijay Kokate! <br/><a href="[https://github.com/mrinalkokate]">Business Analytics</a>, <a href="https://www.linkedin.com/in/mrinalkokate/">  </a>Technical Support Professional  </a>,</a>Customer Success Manager / Manager SMB Renewals </a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Programming Initiatves:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Python Basics</b>
+  - [Practicing Python](https://github.com/mrinalkokate/PythonExercises)
 
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Machine Learning Models Practice</b>
+  - [Trees](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Random Forests]()
+  - [Support Vector Machine Algorith]()
 
 <h2> Certifications:</h2>
 
