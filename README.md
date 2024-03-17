@@ -6,7 +6,7 @@
   - [Practicing Python](https://github.com/mrinalkokate/PythonExercises)
 
 - <b>Machine Learning Models Practice</b>
-  - [Trees]()
+  - [Trees](https://github.com/mrinalkokate/Trees)
   - [Random Forests]()
   - [Support Vector Machine Algorith]()
 
