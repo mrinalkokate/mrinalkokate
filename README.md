@@ -20,6 +20,10 @@
 - [Harnessing AI for Customer Success: Achieving Sustainable Growth - Part 1](https://www.linkedin.com/pulse/harnessing-ai-customer-success-achieving-sustainable-growth-kokate-hl5vf/?trackingId=15qwdA%2B%2BTV2Q5YZwbxWJ0g%3D%3D)
 - [Integrating AI with Customer Success - Part 2](https://www.linkedin.com/pulse/integrating-ai-customer-success-part-2-mrinal-vijay-kokate-pootf/?trackingId=QvD0sEm9Qc2GmJu0AS6w6g%3D%3D)
 
+  <h2> My Website:</h2>
+   https://sites.google.com/view/mrinalkokate/home
+ 
+
 <h2> 🤳 Connect with me:</h2>
 
 
@@ -27,6 +31,7 @@
 
 
 [linkedin]: https://linkedin.com/in/mrinalkokate
+
 
 
 
