@@ -8,7 +8,7 @@
 - <b>Machine Learning Models Practice</b>
   - [Trees](https://github.com/mrinalkokate/Trees)
   - [Random Forests](https://github.com/mrinalkokate/Random-Forests)
-  - [Support Vector Machine Algorith]()
+  - [Support Vector Machine Algorith](https://github.com/mrinalkokate/Support-Vector-Machine)
 
 <h2> Certifications:</h2>
 
